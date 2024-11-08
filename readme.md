@@ -4,7 +4,6 @@
 	<meta charset="UTF-8"
 	<meta name="author" content="hufa">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>tryhackme resources</title>
 </head>
 <body>
 	<h1>
