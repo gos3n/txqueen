@@ -5,51 +5,6 @@
 	<meta name="author" content="hufa">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>tryhackme resources</title>
-
-	<style>
-		body {
-			background-color: black;
-			color: powderblue;
-			font-size: 100%;
-			font-family: sans-serif;
-		}
-		h1 {
-			font-size: 150%;
-			font-family: verdana;
-			color: hotpink;
-		}
-		h2,h3,h4 {
-			font-size: 131%;
-			font-family: verdana;
-			color: purple;
-		}
-		p {
-			font-size: 100%;
-			font-family: sans-serif;
-			color: powderblue;
-		}
-		a {
-			font-size: 80%;
-			font-family: sans-serif;
-			color: orange;
-		}
-		.align_c {
-			text-align: center;
-			font-size: 90%;
-		}
-		.h_align_r {
-			text-align: right;
-			padding: 31px;
-		}
-		.align_r {
-			text-align: right;
-			padding: 31px;
-		}
-		.align_l {
-			text-align: lft;
-			padding: 31px;
-		}
-	</style>
 </head>
 <body>
 	<h1>
